@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GPUIShaderVariantCollection
+  m_Shaders:
+  - first: {fileID: 4800000, guid: 84c8520397f5f4e4c9a0703171130b49, type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0
+      - keywords: _NORMALMAP
+        passType: 0
+  - first: {fileID: 4800000, guid: 82de82b577147a642af099f486b450b2, type: 3}
+    second:
+      variants: []
+  - first: {fileID: -6465566751694194690, guid: 13567c7704562ff4188beb583474bbb9,
+      type: 3}
+    second:
+      variants:
+      - keywords: 
+        passType: 0

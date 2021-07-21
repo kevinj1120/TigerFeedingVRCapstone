@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/EscapeRoomTemplate.unity
+    guid: 81dac3e195d7c724d80990de4550c961
+  - enabled: 1
+    path: Assets/Scenes/Demo Day Project.unity
+    guid: ac4f70198734a4640bbf4a4c9432a672
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8e73b1e8e9772694eaa25cf2836dc3f2,
+      type: 2}
